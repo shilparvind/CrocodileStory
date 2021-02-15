@@ -1,3 +1,6 @@
 Crocodile
 Monkey
 Crocodile's wife
+Bird
+River
+Apple Tree
